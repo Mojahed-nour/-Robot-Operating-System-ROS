@@ -1,6 +1,6 @@
 # Robot-Operating-System-ROS
-The Robot Operating System ( ROS) is a robust system for for writing robot software
-Seeking to simplify the task of producing complex and stable robot behavior across a wide range of robotic platforms by using set of tools, libraries and conventions offered  in ROS
+The Robot Operating System (ROS) is a robust system for for writing robot software
+Seeking to simplify the task of producing complex and stable robot behavior across a wide range of robotic platforms by using set of tools, libraries and conventions offered  in ROS.
 
 ![images](https://user-images.githubusercontent.com/67114907/89722996-7cacb980-d9f9-11ea-920f-bbc3553ee6f9.jpg)
 
